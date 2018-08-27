@@ -1,0 +1,10 @@
+Package: ssrmc
+Type: Package
+Title: Social Science Research Methods Center
+Version: 0.1.0
+Author: Philip Waggoner, with contributions from Jaime Settle and Marcus Holmes
+Maintainer: Philip Waggoner <pdwaggoner@wm.edu>
+Description: This package stores datasets from SSRMC experiments and surveys, methods cheat sheets, data visualization techniques, and any other files associated with our work.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
