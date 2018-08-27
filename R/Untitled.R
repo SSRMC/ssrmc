@@ -1,0 +1,5 @@
+x <- c(1:10)
+y <- c(2:11)
+df <- data.frame(x,y)
+setwd("/Users/bpwaggo/Dropbox/SSRMC/R/ssrmc/inst/extdata")
+write.csv(df, "df.csv")
